@@ -1,4 +1,6 @@
 <br clear="both">
+<h1> Hey there! I'm Ankita Syam</h1>
+<p>Mastering Python and Web Dev — building, breaking, learning, and creating cool stuff along the way.</p>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitaSyam.AnkitaSyam&"  />
