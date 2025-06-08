@@ -1,3 +1,6 @@
+<h1 align="center">Hey there! I'm Ankita Syam</h1>
+<p align="center">Mastering Python and Web Development — building, breaking, learning, and creating cool stuff along the way.</p>
+
 <br clear="both">
 
 <div align="left">
