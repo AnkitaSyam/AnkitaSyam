@@ -29,10 +29,3 @@
 ## GitHub Contribution 
 
 <img src="https://raw.githubusercontent.com/AnkitaSyam/AnkitaSyam/output/snake.svg" alt="Snake animation" />
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=AnkitaSyam&theme=dark" alt="Latest Medium posts by Ankita Syam" />
-</div>
-
