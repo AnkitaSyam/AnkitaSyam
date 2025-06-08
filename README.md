@@ -27,5 +27,6 @@
 </div>
 
 ## GitHub Contribution:
-
-<img src="https://raw.githubusercontent.com/AnkitaSyam/AnkitaSyam/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnkitaSyam/AnkitaSyam/output/snake.svg" alt="Snake animation" />
+</div>
