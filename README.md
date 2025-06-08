@@ -26,6 +26,6 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-## GitHub Contribution 
+## GitHub Contribution:
 
 <img src="https://raw.githubusercontent.com/AnkitaSyam/AnkitaSyam/output/snake.svg" alt="Snake animation" />
