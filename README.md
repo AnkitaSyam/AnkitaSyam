@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitaSyam.AnkitaSyam&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitaSyam.AnkitaSyam"  />
 </div>
 
 ## GitHub Stats:
@@ -26,8 +26,4 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/AnkitaSyam/AnkitaSyam/output/snake.svg" alt="Snake animation" />
-
-###
