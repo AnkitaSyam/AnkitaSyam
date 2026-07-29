@@ -6,7 +6,7 @@
 
 # GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSyam&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=AnkitaSyam&theme=dark&hide_border=false" />
 </div>
 
 # Tech Stack:
