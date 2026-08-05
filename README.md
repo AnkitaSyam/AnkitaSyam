@@ -1,5 +1,9 @@
 <h1 align="center">Hey there! I'm Ankita Syam</h1>
-<p align="center">Mastering Python and Web Development — building, breaking, learning, and creating cool stuff along the way.</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Web+Developer" alt="Typing SVG" />
+</p>
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitaSyam.AnkitaSyam"  />
 </div>
